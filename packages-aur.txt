@@ -1,0 +1,4 @@
+matugen-bin
+mpvpaper
+networkmanager-dmenu-git
+swayosd-git
