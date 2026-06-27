@@ -25,7 +25,7 @@ find "$(dirname "$0")/hypr" -type f \( -name "*.json" -o -name "*.conf" -o -name
 echo "    Paths actualizados para: $HOME"
 
 echo "==> Aplicando dotfiles con stow..."
-stow hypr
+stow --restow hypr
 
 echo ""
 echo "==> Listo! Pasos finales:"
