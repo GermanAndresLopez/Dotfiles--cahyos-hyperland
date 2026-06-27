@@ -1,6 +1,7 @@
 #!/bin/bash
 set -e
-
+echo "==> Instalando prerequisitos..."
+sudo pacman -S --needed git stow
 echo "==> Instalando paquetes oficiales..."
 sudo pacman -S --needed - < packages.txt
 
