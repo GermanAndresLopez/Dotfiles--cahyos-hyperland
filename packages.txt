@@ -237,3 +237,7 @@ xfsprogs
 xl2tpd
 yq
 stow
+ttf-jetbrains-mono-nerd
+ttf-iosevka-nerd
+ttf-jetbrains-mono-nerd
+ttf-iosevka-nerd
